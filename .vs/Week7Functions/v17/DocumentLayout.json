@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kasutaja\\source\\repos\\Week7Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4BEC497-2775-4A3D-B914-AE3B52C93AC7}|..\\DisplayArrayElementsFunction\\DisplayArrayElementsFunction.csproj|c:\\users\\kasutaja\\source\\repos\\displayarrayelementsfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37271001-C801-45DA-B5F2-4E88D51E470D}|..\\CalculatorWithFunctions\\CalculatorWithFunctions.csproj|c:\\users\\kasutaja\\source\\repos\\calculatorwithfunctions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844B9C21-B52B-4AB8-A262-75D3FE305E95}|Week7Functions.csproj|c:\\users\\kasutaja\\source\\repos\\week7functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844B9C21-B52B-4AB8-A262-75D3FE305E95}|Week7Functions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\source\\repos\\DisplayArrayElementsFunction\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DisplayArrayElementsFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\source\\repos\\DisplayArrayElementsFunction\\Program.cs",
+              "RelativeToolTip": "..\\DisplayArrayElementsFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:47:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\source\\repos\\CalculatorWithFunctions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorWithFunctions\\Program.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\source\\repos\\CalculatorWithFunctions\\Program.cs",
+              "RelativeToolTip": "..\\CalculatorWithFunctions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:06:27.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kasutaja\\source\\repos\\Week7Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kasutaja\\source\\repos\\Week7Functions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:42:26.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
